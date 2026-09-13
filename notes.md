@@ -24,3 +24,8 @@ Chapter 2:
     - eg. home/url.py instead of moviesstore/url.py
 - suggested to store your app templates under the next directory structure – app_name/templates/app_name/my_template.html.
     - e.g. home/templates/home/index.html
+
+Chapter 5:
+- run the following when making new models
+- ```python3 manage.py makemigrations```
+- ```python3 manage.py migrate```
